@@ -1,5 +1,5 @@
 /*
- @ Jun 22 2016 Monday
+ @ Jun 22 2016 
  @ by Xin Liu 
 */
 
