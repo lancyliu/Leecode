@@ -1,2 +1,2 @@
-# Leecode
+# Leetcode
 coding of the leecode, divided by the programming language
